@@ -1,2 +1,2 @@
 # WriteUps
-List of all my writeUPs for the chall created or completed during CTF
+List of all my writeUPs for the challs created or completed during CTF
